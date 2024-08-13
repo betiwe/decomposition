@@ -1,6 +1,12 @@
 import React from 'react';
 import CardLine from './CardLine';
 
+
+/**
+ * Списрк Эфиров
+ */
+
+
 const props = [
   {
     emoji: '▶️',

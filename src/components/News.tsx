@@ -1,7 +1,11 @@
 import CardLine from './CardLine';
+
+
 /**
  * Список новостей
  */
+
+
 const props = [
   { 
     emoji: "📰",

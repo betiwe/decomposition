@@ -1,5 +1,10 @@
 import React from 'react'
 
+/**
+ * Список ссылок над поиском
+ */
+
+
 interface LinksProps {
 	address: string,
 	name: string

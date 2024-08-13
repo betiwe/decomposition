@@ -1,6 +1,12 @@
 import React from 'react';
 import CardLine from './CardLine';
 
+
+/**
+ * Списрк Телепрограмм
+ */
+
+
 const props = [
   {
     text: '02:00 THT.Best',

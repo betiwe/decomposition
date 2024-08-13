@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Элемент списка в виде ссылки
+ * Элемент списка
  */
 
 interface CardLineProps {

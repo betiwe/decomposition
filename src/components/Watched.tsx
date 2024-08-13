@@ -1,6 +1,12 @@
 import React from 'react';
 import CardLine from './CardLine';
 
+/**
+ * Список посещаемых
+ */
+
+
+
 const props = [
   {
     text: 'Недижвижмость - о сталинках',
@@ -17,7 +23,7 @@ export const Watched: React.FC = () => {
   return (
     <>
       <div className='container'>
-        <h1 className='title-second'>Телепрограмма</h1>
+        <h1 className='title-second'>Посещаемое</h1>
         <div className='items'>
           {props.map((items, index) => (
             <CardLine key={index} {...items} />

@@ -1,6 +1,11 @@
 import React from 'react';
 import { SearchLinks } from './SearchLinks';
 
+/**
+ * Основная строка поиска
+ */
+
+
 const links = [
   {
     address: '#',
