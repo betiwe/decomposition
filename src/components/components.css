@@ -1,0 +1,64 @@
+.container {
+	text-align: start;
+	margin-bottom: 25px;
+}
+
+.title {
+	font-size: 30px;
+	margin-left: 20px;
+}
+
+.items {
+	display: flex;
+	flex-direction: column;
+}
+
+.cardline {
+	margin-bottom: 10px;
+}
+
+
+.title_parag{
+	display: inline;
+}
+
+.form {
+	display: flex;
+	align-items: center;
+	margin-bottom: 25px ;
+}
+
+.links-form {
+	display: block;
+	margin-left: 10px;
+
+}
+
+.input {
+	border-color: yellow;
+	border-width: 5px;
+	border-radius: 5px;
+	outline: none;
+	font-size: 25px;
+}
+
+.button {
+	background-color: yellow;
+}
+
+.search-links {
+	display: flex;
+	gap: 5px
+}
+
+
+.title-second {
+	font-size: 20px;
+	color: #646cff;
+	margin: 10px 0;
+}
+
+.other {
+	display: flex;
+	justify-content: space-between;
+}
